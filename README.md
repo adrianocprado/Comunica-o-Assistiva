@@ -28,6 +28,7 @@ Comunicador assistivo de baixo custo, aberto e sem fins lucrativos. A pessoa apr
 | Bateria 18650  | bateria de 3,7 volts responsável por alimentar o circuito quando estiver desligado da energia AC. |
 | Módulo Carregador de Bateria de Lítio com Conversor Step-Up DC-DC Integrado  | O módulo serve para carregar a bateria 18650 (via USB Tipo-C) e, ao mesmo tempo, elevar e regular a tensão da bateria para uma saída estável de 5V (ajustada no potenciômetro) para alimentar o seu circuito.  |
 | Conector USB Tipo-C | para carregar a bateria/ energizar o circuito. |
+| Caixa para o dispositivo | foi utilizado uma caixa de 200x120x55mm. |
 | Capacitores 470 µF e 100 µF | evitam oscilação da tela e falhas do SD |
 
 As ligações pino a pino estão em [`docs/`](http://docs/):
@@ -82,11 +83,11 @@ priya/
 
 │   └── esquema\_em\_blocos\_comunicador.pdf
 
-└── imagens/          (fotos da montagem e do painel \- a adicionar)
+└── imagens/fotos da montagem e do painel.
 
 ## Contribuir
 
-Sugestões, correções e relatos de uso são bem-vindos pelas *Issues* do GitHub ou pelo e-mail abaixo.
+Sugestões, correções e relatos de uso são bem-vindos pelas *Issues* do GitHub.
 
 
 ## Licença
