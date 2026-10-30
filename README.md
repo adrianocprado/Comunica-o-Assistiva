@@ -88,13 +88,14 @@ priya/
 
 Sugestões, correções e relatos de uso são bem-vindos pelas *Issues* do GitHub ou pelo e-mail abaixo.
 
-## Licença
 
-A definir antes da publicação (adicionar o arquivo `LICENSE`).
+## Licença
+Este projeto está licenciado sob a Licença GPL-3.0 - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
 ## Créditos
 
-Idealização e montagem: \[seu nome\]. Programação e documentação desenvolvidas com a colaboração do Claude (Anthropic).
+Idealização e montagem: Adriano Prado. Programação e documentação desenvolvidas com a colaboração do Claude (Anthropic).
 
 ## Contato
 
