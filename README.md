@@ -7,7 +7,7 @@ Comunicador assistivo de baixo custo, aberto e sem fins lucrativos. A pessoa apr
 
 ## Como funciona
 
-1. Aproxime um cartão do leitor RFID (ou aperte um dos 4 botões de atalho).  
+1. Aproxime um cartão (ou etiqueta) do leitor RFID (ou aperte um dos 4 botões de atalho).  
 2. O ESP32 encontra no cartão SD o som e a imagem ligados àquele cartão.  
 3. A imagem aparece no display e o som toca no alto-falante.  
 4. Depois do áudio (mínimo de 3 segundos) a tela volta ao início.
@@ -45,6 +45,13 @@ Alimentação do circuito:
 - use um carregador de 5V/2A com conector USB tipo C.  
 - Esse módulo step up também protege a bateria de receber carga excessiva e indica o status do processo de carregamento.  
 - Uma opção seria não usar uma bateria interna e usar um power bank para manter o dispositivo portátil. Nesse caso o módulo carregador step up não será necessário.
+
+
+## Cartões e Etiquetas RFID
+
+- **Compatibilidade:** Utilize cartões, chaveiros ou etiquetas adesivas RFID de **13,56 MHz** (padrão Mifare).
+- **Sugestão de uso:** Você pode colar as etiquetas adesivas em objetos reais (como brinquedos, copos, talheres ou remédios) ou em cartões com figuras ilustrativas para que o dispositivo faça a leitura e reproduza o áudio correspondente.
+
 
 ## Instalação do firmware
 
